@@ -1,2 +1,1 @@
-# calculator-app
-A responsive calculator built using HTML, CSS and JavaScript
+![Calculator Screenshot](screenshot.png)
